@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/fhl/static/css/main.0056e2cb.chunk.css"
   },
   {
-    "revision": "700895837be636ecfa1ac4b03d23aec3",
+    "revision": "22a188bac341e673462c1b9ee626c69b",
     "url": "/fhl/index.html"
   }
 ];
